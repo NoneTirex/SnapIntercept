@@ -1,1 +1,1 @@
-SnapIntercept Xposed Module
+# SnapIntercept Xposed Module
